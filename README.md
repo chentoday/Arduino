@@ -15,5 +15,8 @@
 
 > 串口通信
 [Arduino_serial](https://github.com/aJantes/Arduino_serial)
+
+> ADC
+[Arduino_adc](https://github.com/aJantes/Arduino_adc)
 ---
 
