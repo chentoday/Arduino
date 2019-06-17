@@ -18,5 +18,8 @@
 
 > ADC
 [Arduino_adc](https://github.com/aJantes/Arduino_adc)
+
+> DHT11 模块
+[Arduino_DHT11](https://github.com/aJantes/Arduino_DHT11)
 ---
 
