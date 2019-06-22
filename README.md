@@ -24,5 +24,8 @@
 
 > DS1302 模块
 [Arduino-DS1302](https://github.com/aJantes/Arduino-DS1302)
+
+> 矩阵按键
+[Arduino-KEYPAD](https://github.com/aJantes/Arduino-KEYPAD)
 ---
 
